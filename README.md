@@ -1,4 +1,4 @@
-# Battle_arena
+# Mini_game_Battle_Arena
 
     Проект на основе ООП, с помощью которого реализована пвп-арена, а также Flask
     Создан набор классов: оружие, броня, главный герой(которым мы управляем) и противник
@@ -22,7 +22,7 @@ ___
 ## Запуск:
 
 1) Клонируйте репозиторий
-`git clone https://github.com/Edenerus/Battle_arena`.
+`git clone https://github.com/LinkolnAkaKvant/Mini_game_Battle_Arena.
 2) Установите зависимости командой `pip install -r requirements.txt`
 3) Войдите в виртуальное окружение(если не вошло автоматически) `venv/Scripts/activate`
 4) Запустите приложение Flask `flask run`
